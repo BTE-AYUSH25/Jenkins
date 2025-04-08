@@ -18,7 +18,7 @@ This project is part of my DevOps internship at Elevate Labs. In this task, I ha
 🔁 CI/CD Pipeline Stages (via Jenkins)
 1. Checkout Code
 Jenkins pulls the code from this GitHub repository:
-https://github.com/Bijendar/node-demo-app
+
 2. Build Docker Image
 Docker builds an image using the Dockerfile inside node-demo-app directory.
 3. Deploy Application

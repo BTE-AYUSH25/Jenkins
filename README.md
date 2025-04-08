@@ -21,7 +21,8 @@ Jenkins pulls the code from this GitHub repository:
 
 2. Build Docker Image
 Docker builds an image using the Dockerfile inside node-demo-app directory.
-3. Deploy Application
+https://github.com/BTE-AYUSH25/Docker
+4. Deploy Application
 The image is run as a container using:
 docker run -d -p 3000:3000 node-demo-app-image:latest
 🧠 Learnings
